@@ -1,7 +1,7 @@
 import asyncio
 from telegram import Bot
 
-TELEGRAM_TOKEN = "8324375966:AAGJi5dFA8dlz97n91w6ZzlxaVzLK02bpx0"  # Ваш токен
+TELEGRAM_TOKEN = ""  # Ваш токен
 bot = Bot(token=TELEGRAM_TOKEN)
 
 async def get_chat_id():
